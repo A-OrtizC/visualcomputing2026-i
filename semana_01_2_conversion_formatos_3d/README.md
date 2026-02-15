@@ -342,3 +342,39 @@ Se logró implementar correctamente:
 * Visualización interactiva en Three.js
 
 Esto permitió comparar OBJ, STL y GLTF y entender sus diferencias estructurales y de visualización.
+
+---
+
+# Créditos de modelos 3D
+
+Los modelos utilizados en este taller fueron obtenidos de las siguientes fuentes públicas:
+
+## Modelo OBJ – Cat
+
+Fuente: Free3D  
+https://free3d.com/es/modelo-3d/cat-v1--522281.html?dd_referrer=
+
+Licencia: Uso gratuito para fines educativos y personales.
+
+---
+
+## Modelo STL – Ultimate Ice Scraper
+
+Fuente: Printables  
+https://www.printables.com/model/658027-ultimate-ice-scraper/files
+
+Autor: Publicado en Printables  
+Licencia: Uso permitido según condiciones de la plataforma.
+
+---
+
+## Modelo GLB – Robot oxidado
+
+Fuente: Pixabay  
+https://pixabay.com/es/3d-models/glb-robot-robot-oxidado-3393/
+
+Licencia: Libre de derechos bajo la licencia de contenido de Pixabay.
+
+---
+
+Estos modelos fueron utilizados únicamente con fines educativos para el análisis y visualización de estructuras de mallas 3D.
