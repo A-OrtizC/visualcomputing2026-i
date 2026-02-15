@@ -6,7 +6,7 @@ Alejandro Ortiz Cortes
 
 ## Fecha de entrega
 
-15 de febrero de 2026
+20 de febrero de 2026
 
 ---
 
