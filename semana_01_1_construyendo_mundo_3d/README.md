@@ -79,7 +79,7 @@ useLoader(STLLoader)
 
 * Visualización de estadísticas:
 
-```javascript
+```
 Número de vértices
 Número de aristas
 Número de caras
